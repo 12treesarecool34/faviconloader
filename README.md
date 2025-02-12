@@ -1,1 +1,1 @@
-# faviconloader
+# Favicon Loader
